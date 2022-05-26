@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Aligator.h
+Reptile.h
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Reptile.h
+
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Animal.h
+
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Cat.h
+Mammal.h
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Mammal.h
+
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Dog.h
+Mammal.h
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Mammal.h
+
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Mammal.h
+Animal.h
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Animal.h
+
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Reptile.h
+Animal.h
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Animal.h
+
+/home/jsteeg/CLionProjects/uni/afg4/4.4/main.cpp
+iostream
+-
+Animal.h
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Animal.h
+Cat.h
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Cat.h
+Dog.h
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Dog.h
+Aligator.h
+/home/jsteeg/CLionProjects/uni/afg4/4.4/Aligator.h
+

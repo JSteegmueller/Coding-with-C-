@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/afg2.dir/bit_operations.cpp.o -o afg2 

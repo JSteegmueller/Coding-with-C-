@@ -1,0 +1,8 @@
+Team:
+all B. Sc. Informatics
+Bernhard Fraidel 4229942,
+Lukas Sailer 4265663,
+Julian Zürn 4267441,
+Nicolas Hämmerle 4178844,
+Pavel Hegler 3920831,
+Janik Steegmüller 4235318

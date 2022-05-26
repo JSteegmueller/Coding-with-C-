@@ -1,0 +1,40 @@
+French Press Coffee Algorithm
+
+ALGORITHM:
+Input (
+positive number (grams): beans,
+positive number (milliliters): water
+)
+
+if there are more than 30 grams of beans
+     grind beans
+else
+     error "not enough beans, please buy more"
+
+put ground beans in french press
+
+get 450ml of water
+
+while water temperature is < location.boilingPoint
+     boil water
+
+add boiling water to french press
+
+mix water with ground beans
+
+wait 3 minutes
+
+push plunger down
+
+pour coffee in cup
+
+while coffee is more than 0ml
+     drink coffee
+
+
+ALGORITHM PROPERTIES:
+
+The Algorithm is correct because you always end up with a cup of coffee if you have enough beans, if not an error is thrown
+The Algorithm is robust because all wrong inputs are detected and reported
+The Algorithm terminates if water can be boiled and a cup of coffee can be emptied
+The Algorithm is not deterministic and determined because it depends where you are in the world (boiling point)

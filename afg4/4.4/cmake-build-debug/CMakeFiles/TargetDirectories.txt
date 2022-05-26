@@ -1,0 +1,3 @@
+/home/jsteeg/CLionProjects/uni/afg4/4.4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jsteeg/CLionProjects/uni/afg4/4.4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jsteeg/CLionProjects/uni/afg4/4.4/cmake-build-debug/CMakeFiles/afg4.dir
